@@ -2,7 +2,8 @@
 
 Python Internship
 
-1.To-Do List
-2.Calculator
+1.To-Do List:To-Do List application is a useful project that helps users manage and organize their tasks efficiently, allowing users to create, update, and track their To-Do lists
+
+2.Calculator:
 3.Weather Forecast
 4.Quiz Game
