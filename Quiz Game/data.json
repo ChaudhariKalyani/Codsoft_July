@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. What is the capital of France?",
+    "Q2. Who is CEO of Tesla?",
+    "Q3. The iphone was created by which company?",
+    "Q4. How many Harry Potter books are there?"
+  ],
+  "answer": [
+    3,
+    2,
+    1,
+    4
+  ],
+  "options": [
+
+    ["New York",
+      "London",
+      "Paris",
+      "Dublin"
+    ],
+    ["Jeff Bezos",
+      "Elon Musk",
+      "Bill gates",
+      "Tony Stark"
+    ],
+    ["Apple",
+      "Intel",
+      "Amazon",
+      "Microsoft"
+    ],
+    ["1",
+      "4",
+      "6",
+      "7"
+    ]
+  ]
+}
